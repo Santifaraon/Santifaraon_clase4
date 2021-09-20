@@ -1,0 +1,12 @@
+.h1 {background-color:lightblue;text-align: center;text-decoration: underline;font-size: 250%}
+.h2 {background-color:orange;text-align: left;text-decoration: underline;font-size: 190%}
+.p1 {font-family: cursive; color:white}
+.p2 {font-family: fantasy; color:white}
+.imgw {width:300px;height: 300px; object-fit: cover;}
+.background {background-image:url("https://www.solofondos.com/wp-content/uploads/2015/11/Imagen-de-fondo-html.jpg");background-repeat: repeat;}
+.as1 {float:right;}
+.sum-img {
+  postion: fixed;
+  top: 0;
+  left: 10px;
+}
